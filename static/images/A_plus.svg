@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2000 2000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <rect id="Artboard1" x="0" y="0" width="2000" height="2000" style="fill:none;"/>
+    <g id="Artboard11" serif:id="Artboard1">
+        <g transform="matrix(0.909152,-0.416465,0.416465,0.909152,-381.026,686.89)">
+            <path d="M720,1152C720,1152 936,432 1008,432C1080,432 1296,1152 1296,1152" style="fill:none;stroke:rgb(9,66,106);stroke-width:35.8px;"/>
+        </g>
+        <g transform="matrix(0.909152,-0.416465,0.416465,0.909152,-381.026,686.89)">
+            <path d="M792,864L1224,864" style="fill:none;stroke:rgb(9,66,106);stroke-width:35.8px;"/>
+        </g>
+        <g transform="matrix(0.909152,-0.416465,0.416465,0.909152,-381.026,686.89)">
+            <path d="M1296,792L1584,792" style="fill:none;stroke:rgb(9,66,106);stroke-width:35.8px;"/>
+        </g>
+        <g transform="matrix(0.909152,-0.416465,0.416465,0.909152,-412.841,675.066)">
+            <path d="M1440,936L1440,648" style="fill:none;stroke:rgb(9,66,106);stroke-width:35.8px;"/>
+        </g>
+        <g transform="matrix(0.80973,-0.375505,0.375505,0.80973,-270.213,508.569)">
+            <circle cx="1062" cy="1050" r="726" style="fill:none;stroke:rgb(9,66,106);stroke-width:20.17px;stroke-dasharray:4.03,38.32,0,0;"/>
+        </g>
+        <g transform="matrix(0.8997,-0.417227,0.417227,0.8997,-409.57,458.41)">
+            <circle cx="1062" cy="1050" r="726" style="fill:none;stroke:rgb(9,66,106);stroke-width:18.2px;"/>
+        </g>
+    </g>
+</svg>

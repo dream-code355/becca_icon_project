@@ -1,0 +1,17 @@
+.navbar-options {
+  position: absolute;
+  right: 50px;
+}
+
+.nav-item {
+  margin-left: 50px;
+}
+
+.icon-holder {
+  margin: auto 0;
+  text-align: center;
+}
+
+.img {
+  display: block;
+}
